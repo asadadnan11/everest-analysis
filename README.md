@@ -1,4 +1,4 @@
-# 🏔️ Mount Everest Risk Analytics: Business Intelligence for Adventure Tourism
+# Mount Everest Risk Analytics: Business Intelligence for Adventure Tourism
 
 **A data-driven analysis combining web scraping, sentiment analysis, and statistical insights to understand climbing risks and optimize safety decision-making.**
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 📈 **Executive Summary**
+## **Executive Summary**
 
 This project analyzes Mount Everest climbing data to identify key risk factors and trends that could inform business decisions in adventure tourism, insurance, and expedition planning. By combining incident data with sentiment analysis of climbing reports, the project delivers actionable insights for industry stakeholders.
 
@@ -18,7 +18,7 @@ This project analyzes Mount Everest climbing data to identify key risk factors a
 
 ---
 
-## 🎯 **Business Problem & Approach**
+## **Business Problem & Approach**
 
 **Problem:** Adventure tourism companies and insurance providers need better data to understand and price Everest climbing risks, but current decision-making relies heavily on anecdotal evidence.
 
@@ -31,7 +31,7 @@ This project analyzes Mount Everest climbing data to identify key risk factors a
 
 ---
 
-## 📊 **Key Findings & Business Insights**
+## **Key Findings & Business Insights**
 
 ### **Death Rate Fluctuation Analysis:**
 - **Major Incident Years:** Identified three significant casualty spikes in the data (2000-2023):
@@ -58,7 +58,7 @@ This project analyzes Mount Everest climbing data to identify key risk factors a
 
 ---
 
-## 🛠️ **Technical Skills Demonstrated**
+## **Technical Skills Demonstrated**
 
 **Data Analysis:**
 - **Python Programming:** Pandas, NumPy for data manipulation and analysis
@@ -72,38 +72,38 @@ This project analyzes Mount Everest climbing data to identify key risk factors a
 
 ---
 
-## 📂 **Project Structure**
+## **Project Structure**
 
 ```
 everest-analysis/
-├── 📊 Final_Report.ipynb          # Complete analysis with visualizations
-├── 📈 Final_Report.html           # Professional presentation format
-├── 🎯 Final_Presentation_UDA.pdf  # Executive summary slides
-└── 📝 README.md                   # Project overview
+├── Final_Report.ipynb          # Complete analysis with visualizations
+├── Final_Report.html           # Professional presentation format
+├── Final_Presentation_UDA.pdf  # Executive summary slides
+└── README.md                   # Project overview
 ```
 
 ---
 
-## 🏆 **Skills & Competencies Showcased**
+## **Skills & Competencies Showcased**
 
 **Analytical Thinking:**
-- ✅ **Problem Framing:** Identified business-relevant questions from complex data
-- ✅ **Data Strategy:** Designed systematic approach to gather and analyze information
-- ✅ **Statistical Reasoning:** Applied appropriate analytical methods to draw valid conclusions
+- **Problem Framing:** Identified business-relevant questions from complex data
+- **Data Strategy:** Designed systematic approach to gather and analyze information
+- **Statistical Reasoning:** Applied appropriate analytical methods to draw valid conclusions
 
 **Business Acumen:**
-- ✅ **Industry Application:** Connected data insights to real business challenges
-- ✅ **Strategic Communication:** Presented technical findings in business-friendly format
-- ✅ **Value Creation:** Identified opportunities for operational and financial improvement
+- **Industry Application:** Connected data insights to real business challenges
+- **Strategic Communication:** Presented technical findings in business-friendly format
+- **Value Creation:** Identified opportunities for operational and financial improvement
 
 **Technical Execution:**
-- ✅ **End-to-End Analysis:** Managed complete project from data collection to recommendations
-- ✅ **Programming Skills:** Demonstrated proficiency in Python and analytical libraries
-- ✅ **Quality Assurance:** Validated findings and ensured reproducible results
+- **End-to-End Analysis:** Managed complete project from data collection to recommendations
+- **Programming Skills:** Demonstrated proficiency in Python and analytical libraries
+- **Quality Assurance:** Validated findings and ensured reproducible results
 
 ---
 
-## 💼 **Career Relevance**
+## **Career Relevance**
 
 This project demonstrates capabilities valuable for:
 - **Business Analytics Roles:** Data-driven decision making and insight generation
@@ -113,15 +113,15 @@ This project demonstrates capabilities valuable for:
 
 ---
 
-## 📄 **Project Access**
+## **Project Access**
 
-- 📊 **Full Analysis:** [Final_Report.ipynb](Final_Report.ipynb) - *Complete workflow with data and visualizations*
-- 📈 **Business Report:** [Final_Report.html](Final_Report.html) - *Professional presentation version*
-- 🎯 **Executive Summary:** [Final_Presentation_UDA.pdf](Final_Presentation_UDA.pdf) - *Key findings and recommendations*
+- **Full Analysis:** [Final_Report.ipynb](Final_Report.ipynb) - *Complete workflow with data and visualizations*
+- **Business Report:** [Final_Report.html](Final_Report.html) - *Professional presentation version*
+- **Executive Summary:** [Final_Presentation_UDA.pdf](Final_Presentation_UDA.pdf) - *Key findings and recommendations*
 
 ---
 
-## 👨‍💼 **About Me**
+## **About Me**
 
 **Asad Adnan**  
 *MS Business Analytics Candidate | University of Notre Dame*  
